@@ -189,7 +189,7 @@ Retrieve character wallet journal.
 
 ### References
 
-* [refTypeID list](../constants.html#reference-type)
+* [refTypeID list](../constants#reference-type)
 * [Old EVE Online forums thread about refID](http://oldforums.eveonline.com/?a=topic&threadID=764508)
 * [CCP Prism X talks journal walking on the old forums](http://oldforums.eveonline.com/?a=topic&threadID=1453360&page=2#60)
 * [CCP Stillman talks journal fixes in the Incursion 1.4 patch notes](http://oldforums.eveonline.com/?a=topic&threadID=1490703)
